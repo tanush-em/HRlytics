@@ -1,0 +1,90 @@
+--------------------------------------------------------------------------------
+JOB REQUIREMENTS
+{
+  "jobs": [
+    {
+      "id": 1,
+      "title": "Senior Software Engineer",
+      "department": "Engineering",
+      "location": "Remote",
+      "type": "Full-time",
+      "experience": "5+ years",
+      "salary": "120,000 - 150,000",
+      "status": "Active",
+      "description": "We are seeking an experienced Software Engineer to join our team. The ideal candidate will have strong expertise in full-stack development and cloud technologies.",
+      "requirements": [
+        "5+ years of experience in software development",
+        "Strong proficiency in React, Node.js, and TypeScript",
+        "Experience with cloud platforms (AWS/Azure/GCP)",
+        "Excellent problem-solving skills"
+      ],
+      "postedDate": "2024-03-15",
+      "applications": 45
+    },
+    {
+      "id": 2,
+      "title": "Product Marketing Manager",
+      "department": "Marketing",
+      "location": "New York, NY",
+      "type": "Full-time",
+      "experience": "3-5 years",
+      "salary": "90,000 - 110,000",
+      "status": "Active",
+      "description": "Looking for a Product Marketing Manager to drive our go-to-market strategy and product launches.",
+      "requirements": [
+        "3+ years of product marketing experience",
+        "Strong analytical and communication skills",
+        "Experience with market research and analysis",
+        "Track record of successful product launches"
+      ],
+      "postedDate": "2024-03-10",
+      "applications": 28
+    },
+    {
+      "id": 3,
+      "title": "UX Designer",
+      "department": "Design",
+      "location": "Hybrid",
+      "type": "Full-time",
+      "experience": "2-4 years",
+      "salary": "80,000 - 100,000",
+      "status": "Active",
+      "description": "Join our design team to create intuitive and engaging user experiences for our products.",
+      "requirements": [
+        "2+ years of UX design experience",
+        "Proficiency in Figma and design tools",
+        "Strong portfolio demonstrating user-centered design",
+        "Experience with user research and testing"
+      ],
+      "postedDate": "2024-03-12",
+      "applications": 32
+    }
+  ]
+}
+--------------------------------------------------------------------------------
+PEOPLE WORKING ON PROJECTS 
+ProjectID,ProjectName,Department,StartDate,EndDate,ProjectManager,Status,Budget,Description
+201,HR Automation System,HR,2023-05-01,2024-09-30,Robert Brown,Ongoing,50000,Automating HR workflows including payroll and leave management.
+202,Employee Engagement Survey,HR,2024-02-10,2024-06-15,Susan Moore,Ongoing,20000,Developing surveys to assess employee satisfaction and engagement.
+203,Sales Dashboard,Sales,2022-08-01,2023-11-30,Linda Wilson,Completed,45000,Created a dashboard to visualize sales performance and revenue trends.
+204,Recruitment AI,HR,2025-01-01,2025-12-31,Jane Smith,Future,75000,Developing an AI-based recruitment tool to screen job applicants.
+205,Finance Risk Analysis,Finance,2023-03-15,2023-12-20,Emily Davis,Completed,60000,Identified financial risks and compliance issues using machine learning models.
+206,Employee Training Portal,Engineering,2024-06-01,2025-06-01,Michael Johnson,Future,90000,An internal platform for employee skill development and certifications.
+207,Customer Support Chatbot,Support,2023-04-01,2024-05-31,William Martinez,Ongoing,55000,Building a chatbot to assist customers with common inquiries.
+208,Payroll System Upgrade,Finance,2022-05-10,2023-03-28,David Thomas,Completed,70000,Upgraded payroll processing to support multi-currency and remote employees.
+209,Marketing Analytics Suite,Marketing,2024-03-01,2024-12-31,Jessica Anderson,Ongoing,65000,Developing an analytics suite to track campaign performance.
+210,Workplace Well-being Initiative,HR,2025-03-01,2025-12-15,John Doe,Future,30000,Introducing wellness programs and mental health support for employees.
+---------------------------------------------------------------------------------------------
+ACCOUNTS 
+AccountID,AccountName,AccountType,Department,Balance,LastTransactionDate,Status,Owner
+301,HR Salary Disbursement,Expense,HR,150000,2025-03-10,Active,Emily Davis
+302,Employee Benefits Fund,Expense,HR,85000,2025-03-08,Active,Robert Brown
+303,Company Revenue,Income,Finance,1200000,2025-03-15,Active,David Thomas
+304,Project Funding,Expense,Finance,450000,2025-02-28,Active,Emily Davis
+305,Marketing Budget,Expense,Marketing,98000,2025-03-12,Active,Jane Smith
+306,Office Maintenance,Expense,Operations,65000,2025-02-25,Active,Michael Johnson
+307,Client Payments,Income,Sales,870000,2025-03-18,Active,Linda Wilson
+308,IT Infrastructure Fund,Expense,Engineering,200000,2025-03-05,Active,John Doe
+309,Tax & Compliance,Expense,Finance,125000,2025-03-11,Active,David Thomas
+310,Emergency Reserve,Reserve,Finance,300000,2025-03-01,Active,Emily Davis
+----------------------------------------------------------------------
