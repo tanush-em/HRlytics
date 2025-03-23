@@ -1,0 +1,67 @@
+{
+  "projects": [
+    {
+      "id": "1",
+      "name": "Website Redesign",
+      "status": "In Progress",
+      "progress": 65,
+      "startDate": "2024-03-01",
+      "endDate": "2024-04-15",
+      "team": [
+        {
+          "id": "user1",
+          "name": "Sarah Chen",
+          "role": "Lead Designer",
+          "avatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330"
+        },
+        {
+          "id": "user2",
+          "name": "Michael Park",
+          "role": "Frontend Developer",
+          "avatar": "https://images.unsplash.com/photo-1599566150163-29194dcaad36"
+        }
+      ],
+      "tasks": [
+        {
+          "id": "task1",
+          "title": "Design System Creation",
+          "status": "Completed",
+          "assignee": "user1",
+          "dueDate": "2024-03-15"
+        },
+        {
+          "id": "task2",
+          "title": "Homepage Implementation",
+          "status": "In Progress",
+          "assignee": "user2",
+          "dueDate": "2024-03-30"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Mobile App Development",
+      "status": "Planning",
+      "progress": 25,
+      "startDate": "2024-03-15",
+      "endDate": "2024-05-30",
+      "team": [
+        {
+          "id": "user3",
+          "name": "Alex Johnson",
+          "role": "Project Manager",
+          "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e"
+        }
+      ],
+      "tasks": [
+        {
+          "id": "task3",
+          "title": "Requirements Gathering",
+          "status": "In Progress",
+          "assignee": "user3",
+          "dueDate": "2024-03-25"
+        }
+      ]
+    }
+  ]
+}

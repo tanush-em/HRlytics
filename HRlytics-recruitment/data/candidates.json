@@ -1,0 +1,72 @@
+{
+  "candidates": [
+    {
+      "id": 1,
+      "name": "Emily Chen",
+      "email": "emily.chen@email.com",
+      "phone": "+1 (555) 123-4567",
+      "jobId": 1,
+      "jobTitle": "Senior Software Engineer",
+      "status": "Interview Scheduled",
+      "appliedDate": "2024-03-16",
+      "experience": "6 years",
+      "currentCompany": "Tech Solutions Inc.",
+      "education": "M.S. Computer Science",
+      "skills": ["React", "Node.js", "AWS", "TypeScript", "Python"],
+      "resumeScore": 92,
+      "interviews": [
+        {
+          "round": "Technical",
+          "date": "2024-03-20",
+          "status": "Scheduled"
+        }
+      ],
+      "notes": "Strong technical background, good culture fit"
+    },
+    {
+      "id": 2,
+      "name": "Michael Rodriguez",
+      "email": "m.rodriguez@email.com",
+      "phone": "+1 (555) 234-5678",
+      "jobId": 2,
+      "jobTitle": "Product Marketing Manager",
+      "status": "In Review",
+      "appliedDate": "2024-03-15",
+      "experience": "4 years",
+      "currentCompany": "Marketing Pro Corp",
+      "education": "MBA Marketing",
+      "skills": ["Product Marketing", "Market Analysis", "Campaign Management", "SEO"],
+      "resumeScore": 88,
+      "interviews": [],
+      "notes": "Good experience in product launches"
+    },
+    {
+      "id": 3,
+      "name": "Sarah Johnson",
+      "email": "sarah.j@email.com",
+      "phone": "+1 (555) 345-6789",
+      "jobId": 3,
+      "jobTitle": "UX Designer",
+      "status": "Offer Extended",
+      "appliedDate": "2024-03-14",
+      "experience": "3 years",
+      "currentCompany": "Design Studio X",
+      "education": "B.A. Design",
+      "skills": ["Figma", "User Research", "Prototyping", "UI Design"],
+      "resumeScore": 95,
+      "interviews": [
+        {
+          "round": "Portfolio Review",
+          "date": "2024-03-16",
+          "status": "Completed"
+        },
+        {
+          "round": "Team Interview",
+          "date": "2024-03-18",
+          "status": "Completed"
+        }
+      ],
+      "notes": "Excellent portfolio, great communication skills"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "jobs": [
+    {
+      "id": 1,
+      "title": "Senior Software Engineer",
+      "department": "Engineering",
+      "location": "Remote",
+      "type": "Full-time",
+      "experience": "5+ years",
+      "salary": "120,000 - 150,000",
+      "status": "Active",
+      "description": "We are seeking an experienced Software Engineer to join our team. The ideal candidate will have strong expertise in full-stack development and cloud technologies.",
+      "requirements": [
+        "5+ years of experience in software development",
+        "Strong proficiency in React, Node.js, and TypeScript",
+        "Experience with cloud platforms (AWS/Azure/GCP)",
+        "Excellent problem-solving skills"
+      ],
+      "postedDate": "2024-03-15",
+      "applications": 45
+    },
+    {
+      "id": 2,
+      "title": "Product Marketing Manager",
+      "department": "Marketing",
+      "location": "New York, NY",
+      "type": "Full-time",
+      "experience": "3-5 years",
+      "salary": "90,000 - 110,000",
+      "status": "Active",
+      "description": "Looking for a Product Marketing Manager to drive our go-to-market strategy and product launches.",
+      "requirements": [
+        "3+ years of product marketing experience",
+        "Strong analytical and communication skills",
+        "Experience with market research and analysis",
+        "Track record of successful product launches"
+      ],
+      "postedDate": "2024-03-10",
+      "applications": 28
+    },
+    {
+      "id": 3,
+      "title": "UX Designer",
+      "department": "Design",
+      "location": "Hybrid",
+      "type": "Full-time",
+      "experience": "2-4 years",
+      "salary": "80,000 - 100,000",
+      "status": "Active",
+      "description": "Join our design team to create intuitive and engaging user experiences for our products.",
+      "requirements": [
+        "2+ years of UX design experience",
+        "Proficiency in Figma and design tools",
+        "Strong portfolio demonstrating user-centered design",
+        "Experience with user research and testing"
+      ],
+      "postedDate": "2024-03-12",
+      "applications": 32
+    }
+  ]
+}
