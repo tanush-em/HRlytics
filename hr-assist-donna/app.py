@@ -11,7 +11,7 @@ from langchain_google_genai import GoogleGenerativeAIEmbeddings
 
 # Configure page settings
 st.set_page_config(
-    page_title="HRlytics Assistant",
+    page_title="DONNA - HR Assist",
     page_icon="💼",
     layout="wide",
     initial_sidebar_state="expanded"
@@ -97,7 +97,7 @@ with st.sidebar:
             st.error("Please enter both API keys.")
 
 # Main content area - Simple and clean
-st.title("HRlytics Assistant")
+st.title("DONNA - HR Analytics Assistant")
 st.markdown("Ask questions about HR data to get business insights")
 
 # Initialize chat history
